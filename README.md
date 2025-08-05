@@ -31,9 +31,6 @@ python Pipers_Blackjack_Crack_Shack.py
 Or Run it in Google Colab:
 ➡ Click Here to Play in Colab
 
-📸 Screenshot
-<img src="./assets/screenshot.png" alt="Game UI" width="700"/>
-(Dealer & Player hands with bet info and card count system.)
 
 📁 Project Structure
 bash
