@@ -4,10 +4,10 @@ The One and Only Crack Shack – Where the cards are hotter than the Crack!
 Welcome to the ultimate blackjack experience, now in your terminal!
 This isn’t your average CLI game—it's got:
 ✔ Betting system with Crack Rocks (R$)
-✔ Dynamic ASCII UI (Dealer & Player hands rendered beautifully)
+✔ Dynamic ASCII UI (Dealer & Player hands made for clairty)
 ✔ Card counting with Running & True Count
 ✔ Perfect Play Advisor (or hide it for a real challenge)
-✔ A hilarious retro vibe with rooms like:
+✔ retro vibe with rooms like:
 🃏 Classic Shack | 💎 High Stakes Shack | 🌌 VIP Neon Lounge
 
 🧠 Features
