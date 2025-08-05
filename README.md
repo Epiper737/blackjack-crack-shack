@@ -4,33 +4,36 @@ The One and Only Crack Shack – Where the cards are hotter than the Crack!
 Welcome to Black Jack
 The chips are black and it's the year 2400.
 If you like crack and playing Black Jack You're in the right place. 
-ATM on depend drinks however, BYOB
+ATM, yes. BYOB, however.
 
-Multiples decks if you want more than one before we embrace card counters
-and those embrace the outer worlds. We got a UI system so their, playing blackjack
-while cracks back. Yup, that's right. Black Jack and Crack are all the rage in 2400.
+Multiples decks if you want more than one be
+ embrace the outer worlds. Black Jack and Crack were all the rage in 2400.
 
 I woke up one morning and found myself a few years behind.
 No one was smoking grass and there were people who wrote with pen and pencil
-and talked about shit like work. 
+and talked about about how I was crazy and not from 2445, but they spit me.
+
+So I smoke more crack.
+
 
 It's the year 2400. We care about:
 
-Black Jack. Crack. And what's inbetween. If your with me your with me.
+Black Jack. And.....
 
-Sincercly yours,
-George Piper the 14th, just missed the lucky number.
+Smack. I don't this will smith character but he sure as hell isn't from the future 
+I'll beleive otherwise when I see the other viarable. 
 
-
+It's now a redundancy. (we talk like computer in 2440). Linguist looked at a few things.
+Language tighting, restricting, but with more weight. It was so directional it snapped.
 
 🖥 How to Run
 1.  Grab your pipe
 2.  Pack it up
-3.  and
+   
 Make sure you have Python 3.x installed.
 
-that's aan important step. I lost my bird years ago. They began to say the second hand smoke
-blew that poor birds lungs away. That's when I started walking the streets, counting cards until
+that's an important step. I lost my bird years ago. They began to say the second hand smoke
+blew that poor birds' lungs away. That's when I started walking the streets, counting cards until
 I was kicked out of every god damn casino miles from the middle where you throw your life away.
 
 Instead, I laid in a box, holding my last rocks, hoping they wouldn't reconinize.
@@ -49,7 +52,7 @@ Edit
 git clone https://github.com/Epiper737/blackjack-crack-shack.git
 cd blackjack-crack-shack
 python Pipers_Blackjack_Crack_Shack.py
-Or Run it in Google Colab:
+Or Run it in Google Colab:e
 ➡ Click Here to Play in Colab
 
 
@@ -62,10 +65,7 @@ Edit
 ├── assets/
 │   └── screenshot.png               # Game UI preview
 └── README.md                        # You are here
- Coming Soon
- Count Trainer Mode (practice deviation decisions)
- Bankroll Simulation (test strategies over 10,000 hands)
- Casino Expansion Pack (multi-table simulation? Maybe!)
+
 
 
 
